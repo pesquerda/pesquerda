@@ -5,7 +5,7 @@ Computer Engineering Student 💻 with an entrepreneurial attitude applied to re
 **👤About me**
 - 📖 Computer Engineering Student at UDL (Universitat de Lleida).
 - 🚀 Freelance experience creating functional websites for local businesses.
-- 📱 Launched a cross-platform mobile app available on both Android and iOS. (Currently working on it)
+- 📱 Launched a cross-platform mobile app, _Focuslab_, available on the Google Play.
 - 🛠️ Constantly learning and experimenting with new technologies.
 
 ## Skills
